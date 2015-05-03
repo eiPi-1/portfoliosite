@@ -1,0 +1,40 @@
+body {
+	font-family: 'Playfair Display', serif;
+	font-weight: 300;
+}
+
+.theme-text-thin {
+	font-weight: 100;
+}
+
+.main-title {
+	font-size: 60px;
+}
+
+.main-pic {
+	width: 100%;
+}
+
+.text-muted {
+	color: #BCBBBB;
+}
+
+.text-proj-title {
+	text-align: center;
+}
+
+.text-proj-link {
+	text-align: center;
+}
+
+.main-separator {
+	height:3px;
+	border:none;
+	background-color:#BCBBBB;
+}
+
+.main-logo {
+	margin-top: 20px;
+	max-width: 100px;
+	max-height: 100px;
+}
